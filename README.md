@@ -38,7 +38,7 @@ ls /Library/LaunchDaemons/com.github.linkinlog.jobbr.plist
 ```
 
 ## Usage
-![Jobbr Usage](./docs/jobbr.mp4)
+![Jobbr Usage](./docs/jobbr.gif)
 ### Starting Jobbr
 Jobbr is automatically started on boot via the Launch Daemon. To manually restart it:
 
